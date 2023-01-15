@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!&fontSize=90" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!&fontSize=90" /> -->
 
 <!--
 **ddonydev/ddonydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
