@@ -23,12 +23,16 @@
 	<h3>📫 How to reach me 📫</h3>
 </div>
 <div align="center">
-<!--   <a href="https://velog.io/@soeun">
-	  <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat&logo=Velog&logoColor=white" />
-</a> -->
 <!--   <a href="https://traveling-shingle-3bd.notion.site/Lee-Soeun-a39a00fdc98a4261b7a41a6062a6c4b3">
 	  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
   </a> -->
+
+<a href="https://www.linkedin.com/in/soeun22">
+<img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://ddonydev.tistory.com/">
+<img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/>
+</a>
   <a href="mailto:ddonydev@gmail.com">
 	  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
   </a>
